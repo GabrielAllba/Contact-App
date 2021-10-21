@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "chlak": "^0.0.1-security",
+    "validator": "^13.5.2",
+    "yargs": "^16.2.0"
+  }
+}
